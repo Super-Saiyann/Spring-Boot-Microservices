@@ -7,6 +7,5 @@ solution that makes it easier to build Spring Framework applications. Spring Boo
 specify unusual aspects of the applications they build. Spring Boot autoconfigures as much as
 possible using sensible defaults. Spring Cloud makes Google Cloud services available to Spring
 Framework applications.
-What to expect during this tra
 
 
